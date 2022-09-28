@@ -1,0 +1,18 @@
+{
+  "name": "64scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "high credit score ◄ Get Your FREE Credit Score high credit score, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "high credit score",
+    "how to get your credit score",
+    "400 credit score loans",
+    "how much credit score is needed to buy a house",
+    "credit score 21 year old"
+  ],
+  "repository": "https://github.com/truelestor/64scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
